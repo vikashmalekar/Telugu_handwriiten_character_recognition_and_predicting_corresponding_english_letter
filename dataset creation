@@ -2,7 +2,6 @@ from matplotlib import image
 import os
 import pandas as pd
 import cv2
-from tqdm import tqdm
 import numpy as np
 from PIL import Image
 
